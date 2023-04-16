@@ -1,6 +1,6 @@
-# Image to CSS style string
+# Image to CSS class string
 
-The problem has been formalized as image captioning problem, where given the UI image the model will generate the CSS style string. 
+The problem has been formalized as image captioning problem, where given the UI image the model will generate the CSS class string. 
 
 ## Model Architecture
 
