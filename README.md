@@ -35,7 +35,7 @@ Steps in notebook run:
 
 ## Evaluation
 
-The model uses Adam with weight decay loss function to evaluate model performance. 
+The model uses Adam with weight decay function to train and evaluate model performance. 
 
 
 ## Inference
